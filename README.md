@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Santos
+# Lucas Santos
 
 ### Back-end Developer | Python • Java • JavaScript • SQL • APIs REST • Banco de Dados
 
